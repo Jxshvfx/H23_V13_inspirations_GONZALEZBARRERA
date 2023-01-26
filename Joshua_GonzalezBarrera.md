@@ -1,2 +1,2 @@
 # Joshua Gonzalez-Barrera
-![photo de moi](IMG_1601.HEIC)
+![photo de moi](image_67185665.JPG)
