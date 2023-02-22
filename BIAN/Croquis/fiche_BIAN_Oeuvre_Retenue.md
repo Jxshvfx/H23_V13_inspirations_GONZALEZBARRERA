@@ -3,9 +3,7 @@
 
 ## Lieu de mise en exposition
 ![entrée](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_entree_20230202.jpg)
-2020, rue William
-Montréal QC H3J 1R8
-Canada
+2020, rue William / Montréal QC H3J 1R8 / Canada
 
 ## Type d'exposition
 C'est une exposition intérieure et temporaire.
