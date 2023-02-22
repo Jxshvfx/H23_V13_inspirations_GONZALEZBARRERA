@@ -32,6 +32,9 @@ C'est une installation de type contemplative.
 [Video Du Projet](https://vimeo.com/669257884)
 
 ## Mise En Place
+L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. Elle est placée a quelque mètres 
+
+![plan](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/plan_oeuvre.png)
 
 ![piece](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_oeuvre_piece_20230202.jpg)
 
