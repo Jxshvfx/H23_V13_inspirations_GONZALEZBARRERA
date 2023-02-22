@@ -2,10 +2,10 @@
 ![affiche](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/biennale_affiche.jpg)
 
 ## Lieu de mise en exposition
+![entrée](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_entree_20230202.jpg)
 2020, rue William
 Montréal QC H3J 1R8
 Canada
-![entrée](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_entree_20230202.jpg)
 
 ## Type d'exposition
 C'est une exposition intérieure et temporaire.
