@@ -27,4 +27,4 @@ Baron Lanteigne
 Nature Morte 7 est une fenêtre qui est composée de plusieurs écrans. Les composantes sont volontairement laissés à découvert afin de montrer le fonctionnement interne. Les écrans sont placés un sur l'autre pour créer un environnement immersif qui réunit le monde réel au monde virtuelle. Finalement, la nature immersive de cette oeuvre montre l'omniprésence de la technologie dans nos vies (Reprise du Cartel).
 
 ## Type D'installation
-
+![video](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/Nature%20Morte%207%20(2022)%20(Original).mp4)
