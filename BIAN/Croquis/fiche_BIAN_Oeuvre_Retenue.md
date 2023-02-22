@@ -17,6 +17,7 @@ Nature Morte 7
 
 ## Nom de l'artiste
 Baron Lanteigne
+
 ![cartel](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/cartel_info_20230202.jpg)
 
 ## Année de réalisation
