@@ -12,6 +12,8 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### Schéma d'installation
 
+![SchemaEchomarine](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_echomarine.png)
+
 ### Sentiment Potentiel
 
 ## [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
@@ -28,6 +30,8 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### Schéma d'installation
 
+![SchemaEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_edria.png)
+
 ### Sentiment Potentiel
 
 ## [Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
@@ -43,6 +47,8 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 ![InstallationLuma](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_lumasol_1_02232023.jpg)
 
 ### Schéma d'installation
+
+![SchemaLuma](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_lumasol.png)
 
 ### Sentiment Potentiel
 
