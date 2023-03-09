@@ -1,1 +1,1 @@
-Emplacement du texte pour le projet Mycelium.
+Emplacement des fiches pour le projet Mycelium.
