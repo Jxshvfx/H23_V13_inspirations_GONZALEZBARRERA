@@ -68,20 +68,6 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 
 ### Sentiment Potentiel
 
-## [Zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
-
-### Créateurs/Créatrices
-
-Abdanor Yara
-
-### Lien avec Mycelium
-
-### L'installation en cours
-
-### Schéma d'installation
-
-### Sentiment Potentiel
-
 ## Cours incontournables
 
 ## Technique
