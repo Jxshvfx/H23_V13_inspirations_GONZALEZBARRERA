@@ -1,6 +1,6 @@
 # Exposition Mycelium
 
-## Echomarine
+## [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
@@ -14,21 +14,7 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### Sentiment Potentiel
 
-## Entre Fungus
-
-### Créateurs/Créatrices
-
-Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
-
-### Lien avec Mycelium
-
-### L'installation en cours
-
-### Schéma d'installation
-
-### Sentiment Potentiel
-
-## Edria
+## [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
@@ -42,7 +28,7 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 
 ### Sentiment Potentiel
 
-## Luma Sol
+## [Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
@@ -56,7 +42,7 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 
 ### Sentiment Potentiel
 
-## Boucler la Boucle
+## [Boucler la Boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
@@ -68,7 +54,7 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 
 ### Sentiment Potentiel
 
-## Zodie-gal
+## [Zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
