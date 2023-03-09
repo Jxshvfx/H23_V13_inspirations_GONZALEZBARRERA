@@ -24,7 +24,7 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### L'installation en cours
 
-![SchémaEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_bouclerlaboucle_2_02232023.jpg)
+![SchémaEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_edria_1_02232023.jpg)
 
 ### Schéma d'installation
 
@@ -51,6 +51,8 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 ### Lien avec Mycelium
 
 ### L'installation en cours
+
+![SchémaBoucler](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_bouclerlaboucle_2_02232023.jpg)
 
 ### Schéma d'installation
 
