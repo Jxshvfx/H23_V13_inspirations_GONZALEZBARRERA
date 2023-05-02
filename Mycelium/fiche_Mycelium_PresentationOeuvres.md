@@ -1,21 +1,5 @@
 # Exposition Mycelium
 
-## [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
-
-### Créateurs/Créatrices
-
-Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
-
-### Lien avec Mycelium
-
-### L'installation en cours
-
-### Schéma d'installation
-
-![SchemaEchomarine](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_echomarine.png)
-
-### Sentiment Potentiel
-
 ## [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 ### Créateurs/Créatrices
@@ -33,6 +17,23 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 ![SchemaEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_edria.png)
 
 ### Sentiment Potentiel
+
+## [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+
+### Créateurs/Créatrices
+
+Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
+
+### Lien avec Mycelium
+
+### L'installation en cours
+
+### Schéma d'installation
+
+![SchemaEchomarine](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_echomarine.png)
+
+### Sentiment Potentiel
+
 
 ## [Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
