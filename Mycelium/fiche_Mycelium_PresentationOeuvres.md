@@ -34,6 +34,21 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### Sentiment Potentiel
 
+## [Boucler la Boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
+
+### Créateurs/Créatrices
+
+### Lien avec Mycelium
+
+### L'installation en cours
+
+![InstallationBoucler](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_bouclerlaboucle_2_02232023.jpg)
+
+### Schéma d'installation
+
+![SchemaBoucle](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_bouclerlaboucle.png)
+
+### Sentiment Potentiel
 
 ## [Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
@@ -50,22 +65,6 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 ### Schéma d'installation
 
 ![SchemaLuma](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_lumasol.png)
-
-### Sentiment Potentiel
-
-## [Boucler la Boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
-
-### Créateurs/Créatrices
-
-### Lien avec Mycelium
-
-### L'installation en cours
-
-![InstallationBoucler](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_bouclerlaboucle_2_02232023.jpg)
-
-### Schéma d'installation
-
-![SchemaBoucle](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_bouclerlaboucle.png)
 
 ### Sentiment Potentiel
 
