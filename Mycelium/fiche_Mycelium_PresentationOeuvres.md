@@ -90,9 +90,7 @@ Je pense que le projet va etre bon, cependant lors de notre visite, pas grand ch
 
 ## Cours incontournables
 
--Traitement audiovisuel
--Installation multimédia
--Conception d'une expérience multimédia
+Traitement audiovisuel, Installation multimédia, Conception d'une expérience multimédia
 
 ## Technique que je ne connais pas beaucoup
 
