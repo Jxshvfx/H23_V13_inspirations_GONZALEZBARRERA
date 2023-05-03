@@ -1,6 +1,6 @@
 ## Une conférence intéressante
 
-Le 30 mars 2023, nous avons assisté à la conférence de Yanik Daunais, directeur géneral et producteur pour "Halo Création". Sa conférence avait comme thème sur tout ce qui ce passe lors d'une production multimedia, plus précisement les productions interactives. 
+Le 30 mars 2023, nous avons assisté à la conférence de Yanik Daunais, directeur géneral et producteur pour "Halo Création". Sa conférence avait comme thème sur tout ce qui ce passe lors d'une production multimedia, plus précisement les productions interactives dans les musées. 
 
 Premièrement, il nous a parler de la pré-production, ils nous proposaient des questions sur quoi on voulait raconter et se baser sur les idées pour se fixer des objectifs et un plan. Ils nous a parler la mise en récit et le type de mode de la production (Contemplative, Interactif, Immersif, Réalité Augmentée) pour aussi fixée l'expérience du visiteur (5 sens, spatio-temporelle, vestibulaire, multisensoriel). Ensuite, d'organiser le temps d'exposition (temporaire/permanent), la durabilité de l'équipment et l'éco-responsabilité. Ensuite, il a nommé les differents techniques et technologies qui seront potentiellement utilisé pour la production. Finalement, il a parlé de l'instalation (instructions, contacts avec clients, délai d'intervations, montage/démontage, troubleshooting, photo, etc.) et finalement des écheanciers et des imprévues potentiels.
 
