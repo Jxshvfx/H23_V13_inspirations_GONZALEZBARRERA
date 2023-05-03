@@ -4,9 +4,11 @@
 
 ### Créateurs/Créatrices
 
-Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
+Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
 
 ### Lien avec Mycelium
+
+C'est un projet qui montre un écosystème avec une structure centrale. Elle est liée au Mycelium car les deux sont basé sur la nature.
 
 ### L'installation en cours
 
@@ -27,7 +29,11 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 
 ### Lien avec Mycelium
 
+Les deux sont basé sur la nature, cependant echomarine ce concentre plus sur l'écosystème marin.
+
 ### L'installation en cours
+
+<img height="600" >
 
 ### Schéma d'installation
 
@@ -36,7 +42,7 @@ Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
 ### Sentiment Potentiel
 
 
-## [Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
+## [Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
 ### Créateurs/Créatrices
 
@@ -46,7 +52,7 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers,
 
 ### L'installation en cours
 
-![InstallationLuma](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_lumasol_1_02232023.jpg)
+![InstallationNexum](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_lumasol_1_02232023.jpg)
 
 ### Schéma d'installation
 
