@@ -1,1 +1,1 @@
-Ici ce retrouve le texte sur la conférence vue en classe.
+Ici ce retrouve le texte sur les conférences vues en classe.
