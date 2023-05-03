@@ -33,7 +33,7 @@ Les deux sont basé sur la nature, cependant echomarine ce concentre plus sur l'
 
 ### L'installation en cours
 
-<img height="600" >
+<img height="600" src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_echomarine_installation.JPG">
 
 ### Schéma d'installation
 
