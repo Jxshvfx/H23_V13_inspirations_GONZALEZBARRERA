@@ -62,6 +62,6 @@ Le visiteur est attendu à regarder l'oeuvre sur un siège avec des écouteurs. 
 J'ai bien aimé le spectacle. En effet, c'était totalement ce que je m'attendais au niveau du contenu (petit retour sur l'histoire de l'ile de mtl). Pour les époques un peu ancien, ils ont utilisé des images et ils les ont animés. Pour les évènements un peu plus récents, ils ont utilisé des vraies images et des narrateurs pour bien expliquer l'époque. De plus, ils jouaient beaucoup avec les écrans et déplacait le narrateur de chaque époque à differentes places, ce qui nous gardait concentré. De plus, pour etre plus diverse, ils ont inclus une option pour changer la langue ce qui était un point que j'ai bien aimé.
 
 ## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement.
-L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressants.
+L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressant.
 
 ![vitre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
