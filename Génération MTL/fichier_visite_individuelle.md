@@ -41,24 +41,27 @@ L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. C'est plein d'écra
 ![piece](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_2.jpg)
 
 ## Composantes et techniques
-Liste de composantes: écrans, fil, crochets.
+Liste de composantes: écrans, fil, projecteur, vitres.
 
-![photofil](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_oeuvre_2_20230202.jpg)
+![photofil](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_equipment.jpg)
 
-Liste de techniques: codage, modelage 3d, connaissance sur les .
+Liste de techniques: Installation multimédia, montage vidéo, traitement audiovisuel.
 
-![photooeuvre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_oeuvre_4.jpg)
+![photooeuvre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_presentation_8.jpg)
 
 ## Éléments nécessaires à la mise en exposition
-Des éléments nécessaires à la mise en exposition sont des crochets, des cables et une structure qui tient les crochets sur le toit.
+Des éléments nécessaires à la mise en exposition sont des écrans, projections, vitres et ordinateurs.
 
 ## Expérience vécue
-Le visiteur est attendu à regarder l'oeuvre autour de celui-ci. De plus, cette oeuvre est aussi interactive car on peut scanner un code qr situe sur les écrans.
+Le visiteur est attendu à regarder l'oeuvre sur un siège avec des écouteurs. La seule intéraction qu'elle peut poser est un choix de langue. La seule chose à faire c'est écouter.
+
+![écouteurs](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_ecouteurs.jpg)
+![langue](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_reglage_langue.jpg)
 
 ## Ce qui m'a plu.
-J'ai bien aimé la justaposition des écrans pour créer une sorte de gazon virtuelle. Les petits aspects de nature était aussi un petit détail que j'ai aimé pour vraiment nous vendre que c'etait un espace naturel. Ensuite, j'ai bien aimé l'idée que l'artiste voulait montrer. En effet, il a choisi la nature comme theme car il voulait dire que la technologie etait autant omnipresente que la nature. Finalement, j'ai bien aimé le modelage 3d fait pour créer le gazon virtuel. Les textures étaient vraiment superbe.
+J'ai bien aimé le spectacle. En effet, c'était totalement ce que je m'attendais au niveau du contenu (petit retour sur l'histoire de l'ile de mtl). Pour les époques un peu ancien, ils ont utilisé des images et ils les ont animés. Pour les évènements un peu plus récents, ils ont utilisé des vraies images et des narrateurs pour bien expliquer l'époque. De plus, ils jouaient beaucoup avec les écrans et déplacait le narrateur de chaque époque à differentes places, ce qui nous gardait concentré. De plus, pour etre plus diverse, ils ont inclus une option pour changer la langue ce qui était un point que j'ai bien aimé.
 
 ## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement.
-L'aspect que je souhaiterai pas retenir est le materiel necessaire pour creer l'oeuvre. En effet, je crois que pour moi c'est un peu trop, surtout tout les fils necessaire pour les écrans.
+L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressants.
 
-![fils](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/BIAN/medias/photo_oeuvre_2_20230202.jpg)
+![fils](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
