@@ -111,7 +111,7 @@ Liste de techniques: Installation multimédia, montage vidéo, traitement audiov
 Des éléments nécessaires à la mise en exposition sont des speakers, des ordinateurs, cables ethernet, proximity sensor, haut parleurs.
 
 ## Expérience vécue
-Le visiteur est attendu à regarder l'oeuvre et intéragir avec la tour centrale. En effet, grace au senseur, ils peuvent jouer des sons différents, et si tout les senseur sont affecté, une harmonie des 4 sons commencera à jouer.
+Le visiteur est attendu à regarder l'oeuvre et intéragir avec la tour centrale. En effet, grace au senseur, ils peuvent jouer des sons différents, et si tout les senseur sont affecté, une harmonie des 4 sons commencera à jouer. De plus, des lumières de couleurs différentes s'allumeront.
 
 <img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_inside_pillier_millieux_feuille.jpg" height="600">
 
