@@ -34,7 +34,7 @@ C'est une installation de type contemplative.
 [Video Du Projet](https://youtu.be/tevIdslyQhc)
 
 ## Mise En Place
-L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. C'est plein d'écran sépar
+L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. C'est plein d'écran séparé d'une maniere qui ressemble a une fenetre avec plein de craques dessus. Au dessous de ses écrans, il y a quelques projecteurs qui diffuse le contenu sur la vitre et le plancher.
 
 ![plan](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/plan_generation_mtl.png)
 
