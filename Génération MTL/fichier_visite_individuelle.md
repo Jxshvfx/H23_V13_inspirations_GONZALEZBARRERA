@@ -26,7 +26,7 @@ Fondation Pointe-à-Calliere, Gouvernement du Quebec, Gouvernement du Canada, Hy
 ## Description de l'oeuvre
 "Telle une machine à remonter le temps, le spectacle vous entraine au cœur des événements marquants de la ville, à la découverte des gens qui ont contribué à bâtir Montréal. Laissez-vous porter par le récit enchanteur de six personnages qui, fiers héritiers des traditions de leurs ancêtres, vous raconteront leur Montréal et ce qui en fait une métropole aussi unique.
 
-Vibrez au rythme de ce spectaculaire récit de 17 minutes mettant à profit des moyens technologiques qui font la réputation de Montréal."
+Vibrez au rythme de ce spectaculaire récit de 17 minutes mettant à profit des moyens technologiques qui font la réputation de Montréal." (repris du site)
 
 ## Type D'installation
 C'est une installation de type contemplative.
@@ -65,3 +65,7 @@ J'ai bien aimé le spectacle. En effet, c'était totalement ce que je m'attendai
 L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressant.
 
 ![vitre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
+
+## Références
+Sites Visités:
+Point-A-Calliere, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/, consulté le 5 mai 2023 
