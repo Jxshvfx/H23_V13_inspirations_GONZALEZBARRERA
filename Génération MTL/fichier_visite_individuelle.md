@@ -41,7 +41,7 @@ L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. C'est plein d'écra
 ![piece](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_2.jpg)
 
 ## Composantes et techniques
-Liste de composantes: écrans, fil, projecteur, vitres.
+Liste de composantes: écrans, fil, projecteur, vitres, lumières.
 
 ![photofil](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_equipment.jpg)
 
