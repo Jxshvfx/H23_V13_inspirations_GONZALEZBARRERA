@@ -1,71 +1,131 @@
-# Edria
-![Edria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_entree_affiche.jpg)
+# Concours Mycélium
 
 ## Lieu de mise en exposition
-165 Pl. d'Youville 1er étage / Montreal / Quebec H2Y 2B2
-
-![Entrée](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_moi_siege.jpg)
+475 Bd de l'Avenir / Laval / QC H7N 5H9
 
 ## Type d'exposition
-C'est une exposition extérieure et .
+C'est une exposition extérieure et temporaire.
 
 ## Date de votre visite
-Le 2 mars 2023
+Le 24 mars 2023
 
 ## Titre de l'oeuvre
-Génération MTL
+Edria
 
-![Oeuvre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_presentation_4.jpg)
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_vue_ensemble_4.jpg" height="600">
 
-## Nom de la Firme
-Fondation Pointe-à-Calliere, Gouvernement du Quebec, Gouvernement du Canada, Hydro-Quebec
+## Nom des créateurs
+Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
 
 ## Année de réalisation
 2023
 
 ## Description de l'oeuvre
-"Telle une machine à remonter le temps, le spectacle vous entraine au cœur des événements marquants de la ville, à la découverte des gens qui ont contribué à bâtir Montréal. Laissez-vous porter par le récit enchanteur de six personnages qui, fiers héritiers des traditions de leurs ancêtres, vous raconteront leur Montréal et ce qui en fait une métropole aussi unique.
-
-Vibrez au rythme de ce spectaculaire récit de 17 minutes mettant à profit des moyens technologiques qui font la réputation de Montréal." (repris du site)
+"Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser..." (Repris du Site)
 
 ## Type D'installation
-C'est une installation de type contemplative.
+C'est une installation de type interactive
 
-[Video Du Projet](https://youtu.be/tevIdslyQhc)
+[Video Du Projet](https://www.youtube.com/watch?v=-R5Un0bGGN4)
 
 ## Mise En Place
-L'oeuvre est dans une pièce ouverte avec beaucoup d'espace. C'est plein d'écran séparé d'une maniere qui ressemble a une fenetre avec plein de craques dessus. Au dessous de ses écrans, il y a quelques projecteurs qui diffuse le contenu sur la vitre et le plancher.
+L'oeuvre est dehors, en avant du cégep,
 
-![plan](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/plan_generation_mtl.png)
+![plan](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_edria.png)
 
-![piece](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_2.jpg)
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_vue_ensemble_3.jpg" height="600">
 
 ## Composantes et techniques
-Liste de composantes: écrans, fil, projecteur, vitres, lumières.
+Liste de composantes:
+Poteaux
 
-![photofil](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vue_ensemble_equipment.jpg)
+Pont d'éclairage (cr34te)
 
-Liste de techniques: Installation multimédia, montage vidéo, traitement audiovisuel.
+1' x 1' x 8' (triangle)
+2' x 2' x 8' (carré)
+specifique
 
-![photooeuvre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_presentation_8.jpg)
+poteau 1
+speaker
+string festoon 15' (cr34te)
+fausse plante
+poteau 2
+speaker
+string festoon 15' (cr34te)
+fausse plante
+colorado
+poteau 3
+speaker
+string festoon 15' (cr34te)
+fausse plante
+poteau 4
+speaker
+string festoon 15' (cr34te)
+fausse plante
+colorado
+poteau 5
+speaker
+string festoon 15' (cr34te)
+fausse plante
+poteau 6
+speaker
+string festoon 15' (cr34te)
+fausse plante
+colorado
+poteau 7
+speaker
+string festoon 15' (cr34te)
+fausse plante
+poteau 8
+speaker
+string festoon 15' (cr34te)
+fausse plante
+colorado
+poteau M
+speaker
+arduino (2x) lien
+LED ALITOVE DC 12V WS2811 12mm
+Lumières adressables (x4)
+DMX Dot 5W (cr34te)
+DMX DOT STRING festoon ( (cr34te)
+DMX DOT clean (64) (cr34te)
+Boule Lumineuse 200mm (cr34te)
+Tubes Opal 0.5M (cr34te)
+Tubes Opal 1M (cr34te)
+COLORado 2 Solo (cr34te)
+fausse plante
+Cabanon central
+
+mac mini
+Carte de son
+Amplificateurs
+V-Show Artnet RDM DMX Controller
+
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_cache_fil_1.jpg" height="600">
+
+Liste de techniques: Installation multimédia, montage vidéo, traitement audiovisuel, audio
+
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_boulle_lumineuse_1.jpg" height="600">
 
 ## Éléments nécessaires à la mise en exposition
-Des éléments nécessaires à la mise en exposition sont des écrans, projections, vitres et ordinateurs.
+Des éléments nécessaires à la mise en exposition sont des speakers, des ordinateurs, cables ethernet, proximity sensor, haut parleurs.
 
 ## Expérience vécue
-Le visiteur est attendu à regarder l'oeuvre sur un siège avec des écouteurs. La seule intéraction qu'elle peut poser est un choix de langue. La seule chose à faire c'est écouter.
+Le visiteur est attendu à regarder l'oeuvre et intéragir avec la tour centrale. En effet, grace au senseur, ils peuvent jouer des sons différents, et si tout les senseur sont affecté, une harmonie des 4 sons commencera à jouer.
 
-![écouteurs](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_ecouteurs.jpg)
-![langue](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_reglage_langue.jpg)
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_inside_pillier_millieux_feuille.jpg" height="600">
 
 ## Ce qui m'a plu.
-J'ai bien aimé le spectacle. En effet, c'était totalement ce que je m'attendais au niveau du contenu (petit retour sur l'histoire de l'ile de mtl). Pour les époques un peu ancien, ils ont utilisé des images et ils les ont animés. Pour les évènements un peu plus récents, ils ont utilisé des vraies images et des narrateurs pour bien expliquer l'époque. De plus, ils jouaient beaucoup avec les écrans et déplacait le narrateur de chaque époque à differentes places, ce qui nous gardait concentré. De plus, pour etre plus diverse, ils ont inclus une option pour changer la langue ce qui était un point que j'ai bien aimé.
+J'ai bien aimé le concept du projet, c'est aussi très créatif et unique, un projet donc je n'ai jamais vu quelque chose de similaire. Ensuite, les couleurs utilisés dans le projet sont vraiment belles et elles ont cette minutie intéressante. De plus, la trame sonore du projet est excellente, j'aimerais potentiellement créer quelque chose de similaire plus tard, et l'harmonie lorsque les 4 senseur sont affectés, il est vraiment bien realisé. Bref, j'aime beaucoup le projet.
 
 ## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement.
-L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressant.
+Honnetement, il n'y a pas grand chose que je ne souhaiterais pas retenir a part peut-etre l'installation multimedia, en effet, c'est le seul aspect qui me semble le plus compliqué et qui ne m'intéresse pas.
 
-![vitre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
+<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_interieur_boite.jpg" height="600">
 
 ## Références
 Sites Visités:
-Point-A-Calliere, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/, consulté le 5 mai 2023 
+Tim Montmorency, https://tim-montmorency.com/2023/, consulté le 5 mai 2023.
+
+Photo: 
+Prise par Félix Lavoie
