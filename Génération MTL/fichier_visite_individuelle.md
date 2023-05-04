@@ -64,4 +64,4 @@ J'ai bien aimé le spectacle. En effet, c'était totalement ce que je m'attendai
 ## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement.
 L'aspect que je souhaiterai pas retenir est un contenu historique, en effet, c'est intéressant pour une personne qui ne connais pas l'histoire de l'ile, mais nous avons vue cela beaucoup de fois en primaire donc, pour moi j'aimerais avoir peut-etre un sujet plus intéressants.
 
-![fils](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
+![vitre](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Génération%20MTL/medias/photo_vitre_centre_2.jpg)
